@@ -21,7 +21,7 @@ repository               : "vineetjnair9/vineetjnair9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Vineet_J_Nair.jpeg"
+  avatar           : "Vineet_J_Nair.jpeg"
   name             : "Vineet J Nair"
   pronouns         : "he/him"  
   bio              : "PhD Candidate and Researcher at MIT"

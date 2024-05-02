@@ -34,7 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+# publications = pd.read_csv("markdown_generator/publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("/Users/vinee/Documents/GitHub/vineetjnair9.github.io/markdown_generator/publications.tsv", sep="\t", encoding='iso-8859-1', header=0)
 publications
 
 

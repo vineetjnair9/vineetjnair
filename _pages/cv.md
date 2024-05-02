@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Science & Engineering, Massachusetts Institute of Technology, 2025 (expected)
+* M.S. in Computational Science & Engineering, Massachusetts Institute of Technology, 2021
+* MPhil in Energy Technologies, University of Cambridge, 2019
+* B.S. in Mechanical Engineering, minor in Electrical Engineering & Computer Science, UC Berkeley, 2018
+* B.A. in Economics, UC Berkeley, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* May-August 2023: Computational Scientist PhD Resident
+  * X, the Moonshot Factory (formerly Google X)
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 

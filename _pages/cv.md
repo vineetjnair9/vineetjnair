@@ -43,8 +43,8 @@ Work experience
   * Supervisors: [Amit Chakraborty](https://scholar.google.com/citations?user=1wxreSIAAAAJ&hl=en), [Biswadip Dey](https://d-biswa.github.io/)
 
 * November 2018-September 2019: Graduate Student Researcher at the University of Cambridge
-  *   Worked on the optimal design, energy management, and control of stable, resilient microgrids for remote, isolated communities
-  *   Advisor: [Ioannis Lestas](https://icl20.user.srcf.net/Ioannis_Lestas.htm)
+  * Worked on the optimal design, energy management, and control of stable, resilient microgrids for remote, isolated communities
+  * Advisor: [Ioannis Lestas](https://icl20.user.srcf.net/Ioannis_Lestas.htm)
 
 * January 2016-May 2018: Honors Undergraduate Researcher at UC Berkeley
   *  Designed and programmed low-cost energy monitoring sensors and analyzed data to understand electricity use among low-income households and promote behavioral energy efficiency, supervised by [Duncan Callaway](https://scholar.google.com/citations?user=Ugijg1wAAAAJ&hl=en) and [Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html)

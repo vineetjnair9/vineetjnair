@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,25 +50,3 @@ Work experience
   *  Designed and programmed low-cost energy monitoring sensors and analyzed data to understand electricity use among low-income households and promote behavioral energy efficiency, supervised by [Duncan Callaway](https://scholar.google.com/citations?user=Ugijg1wAAAAJ&hl=en) and [Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html)
   *  Studied optimization and centralized control of long-range electric vehicle charging scheduling along highway networks, supervised by [Claire Tomlin](https://people.eecs.berkeley.edu/~tomlin/)
   *  Studied impacts of temperature gradients on indoor air quality, supervised by [William Nazaroff](https://scholar.google.com/citations?user=U29LDuAAAAAJ&hl=en)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

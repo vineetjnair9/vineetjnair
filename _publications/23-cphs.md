@@ -1,7 +1,7 @@
 ---
 title: "Human Behavioral Models Using Utility Theory and Prospect Theory"
 collection: publications
-permalink: /publication/6/9/23-cphs_2023
+permalink: /publication/6/9/23-cphs
 date: 6/9/23
 venue: 'CyberÐPhysicalÐHuman Systems: Fundamentals and Applications'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119857433.ch2 '

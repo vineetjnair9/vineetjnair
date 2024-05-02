@@ -1,7 +1,7 @@
 ---
 title: "Local retail electricity markets for distribution grid services"
 collection: publications
-permalink: /publication/9/22/23-ccta_2023
+permalink: /publication/9/22/23-ccta
 date: 9/22/23
 venue: '2023 IEEE Conference on Control Technology and Applications (CCTA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10253334'

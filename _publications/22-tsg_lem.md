@@ -1,7 +1,7 @@
 ---
 title: "A Hierarchical Local Electricity Market for a DER-Rich Grid Edge"
 collection: publications
-permalink: /publication/5/13/22-tsg_lem_2022
+permalink: /publication/5/13/22-tsg_lem
 date: 5/13/22
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9774996'

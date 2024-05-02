@@ -1,7 +1,7 @@
 ---
 title: "Electric vehicle charge scheduling on highway networks from an aggregate cost perspective"
 collection: publications
-permalink: /publication/1/10/19-ev_schedule_2019
+permalink: /publication/1/10/19-ev_schedule
 date: 1/10/19
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/1901.03017'

@@ -1,7 +1,7 @@
 ---
 title: "Estimation of cumulative prospect theory-based passenger behavioral models for dynamic pricing & transactive control of shared mobility on demand"
 collection: publications
-permalink: /publication/2/1/21-sm_thesis_2021
+permalink: /publication/2/1/21-sm_thesis
 date: 2/1/21
 venue: 'MIT  Master&apos;s Thesis'
 paperurl: 'https://dspace.mit.edu/handle/1721.1/130826'

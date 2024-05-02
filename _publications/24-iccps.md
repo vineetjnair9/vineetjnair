@@ -1,7 +1,7 @@
 ---
 title: "Enhancing power grid resilience to cyber-physical attacks using distributed retail electricity markets"
 collection: publications
-permalink: /publication/4/15/24-iccps_2024
+permalink: /publication/4/15/24-iccps
 date: 4/15/24
 venue: '15th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)'
 paperurl: 'https://arxiv.org/abs/2311.05145'

@@ -1,7 +1,7 @@
 ---
 title: "Sensitivity Analysis of Passenger Behavioral Model for Dynamic Pricing of Shared Mobility on Demand"
 collection: publications
-permalink: /publication/4/19/21-sensitivity_2021
+permalink: /publication/4/19/21-sensitivity
 date: 4/19/21
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2104.08985'

@@ -1,7 +1,7 @@
 ---
 title: "Voltage regulation in distribution grids: A survey"
 collection: publications
-permalink: /publication/5/31/23-arc_vc_2023
+permalink: /publication/5/31/23-arc_vc
 date: 5/31/23
 venue: 'Annual Reviews in Control'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1367578823000123'

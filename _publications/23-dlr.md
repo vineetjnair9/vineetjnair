@@ -1,7 +1,7 @@
 ---
 title: "Impacts of dynamic line ratings on the ERCOT transmission system"
 collection: publications
-permalink: /publication/1/16/23-dlr_2022
+permalink: /publication/1/16/23-dlr
 date: 1/16/23
 venue: '2022 North American Power Symposium (NAPS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10012241'

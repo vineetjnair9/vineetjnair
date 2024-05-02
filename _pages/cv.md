@@ -37,8 +37,8 @@ Work experience
  
 * **May-October 2021**: Research Consultant at [Avangrid](https://www.avangrid.com/)
   *  Worked with Avangrid's Smart Grid Innovation team to design and implement a DERMS (Distributed Energy Resources Management System) pilot project
-    
-*  **May-September 2020**: Research Intern at [Siemens](https://www.siemens.com/global/en.html)
+  
+* **May-September 2020**: Research Intern at [Siemens](https://www.siemens.com/global/en.html)
   * Markets, algorithm design, and optimization methods for coordinating distributed energy resources and demand response capabilities in the grid
   * Supervisors: [Amit Chakraborty](https://scholar.google.com/citations?user=1wxreSIAAAAJ&hl=en), [Biswadip Dey](https://d-biswa.github.io/)
 

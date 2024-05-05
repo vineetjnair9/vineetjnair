@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Vineet_Nair_CV_Apr24.pdf" width="600" height="200" type='application/pdf'>
-
+<embed src="{{ site.baseurl }}/files/Vineet_Nair_CV_Apr24.pdf" width="600" height="200" type='application/pdf'>  
 
 Education
 ======

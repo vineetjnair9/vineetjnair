@@ -4,8 +4,6 @@ layout: archive
 title: "Other work"
 permalink: /other/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}

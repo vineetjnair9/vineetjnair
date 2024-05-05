@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# <embed src="{{ site.baseurl }}/files/Vineet_Nair_CV_Apr24.pdf" width="600" height="200" type='application/pdf'>  
+You can find a more detailed CV [here](https://github.com/vineetjnair9/vineetjnair9.github.io/blob/master/files/Vineet_Nair_CV.pdf).
+
+<!-- <embed src="{{ site.baseurl }}/files/Vineet_Nair_CV_Apr24.pdf" width="600" height="200" type='application/pdf'> -->  
 
 Education
 ======

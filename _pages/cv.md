@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * **September 2019-present**: Graduate Student Researcher at MIT
-  * Advisor: [Anuradha Annaswamy](https://meche.mit.edu/people/faculty/aanna%40mit.edu){target="_blank"}
+  * Advisor: [Anuradha Annaswamy](https://meche.mit.edu/people/faculty/aanna%40mit.edu)
   * Thesis Committee: [Kamal Youcef-Toumi](https://meche.mit.edu/people/faculty/YOUCEF@MIT.EDU), [Andy Sun](https://mitsloan.mit.edu/faculty/directory/andy-sun)
 
 * **January 2024-present**: Artificial Intelligence fellow at [Pillar VC](https://www.pillar.vc/)

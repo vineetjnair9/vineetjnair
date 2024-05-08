@@ -30,7 +30,7 @@ Work experience
 * **January 2024-present**: Artificial Intelligence fellow at [Pillar VC](https://www.pillar.vc/)
   * Customer discovery to explore commercial applications of my research in improved time series forecasting and physics-informed machine learning for power systems
 
-* **May-August 2023**: Computational Scientist PhD Resident at [X, the Moonshot Factory (formerly Google X)](https://x.company/)
+* **May-December 2023**: Computational Scientist PhD Resident at [X, the Moonshot Factory (formerly Google X)](https://x.company/)
   * Scientific machine learning for faster and more accurate power grid simulations
   * Worked with [Project Tapestry](https://x.company/projects/tapestry/)
   * Supervisor: [Hamed Khalilinia](https://scholar.google.com/citations?user=H0R1TaoAAAAJ&hl=en) and [Amir Saadat](https://stanford.edu/~asaadat/)

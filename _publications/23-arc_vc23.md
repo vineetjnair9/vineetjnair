@@ -1,8 +1,8 @@
 ---
 title: "Voltage regulation in distribution grids: A survey"
 collection: publications
-permalink: /publication/2023-05-31-arc_vc
-date: 2023-05-31
+permalink: /publication/5/31/23-arc_vc23
+date: 5/31/23
 venue: 'Annual Reviews in Control'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1367578823000123'
 citation: 'Srivastava, P., Haider, R., Nair, V. J., Venkataramanan, V., Annaswamy, A. M., &amp; Srivastava, A. K. (2023). Voltage regulation in distribution grids: A survey. Annual Reviews in Control.'
